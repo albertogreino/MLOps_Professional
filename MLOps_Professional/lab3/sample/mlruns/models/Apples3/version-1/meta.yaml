@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1711711994645
+current_stage: None
+description: ''
+last_updated_timestamp: 1711711994645
+name: Apples3
+run_id: 38e0e3efd86d406fb83a9666678e2dfe
+run_link: ''
+source: file:///F:/workspace/python/MLOps_Professional/MLOps_Professional/lab3/sample/mlruns/326631952177515899/38e0e3efd86d406fb83a9666678e2dfe/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

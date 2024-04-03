@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/workspace/python/MLOps_Professional/MLOps_Professional/lab3/sample/mlruns/326631952177515899/311fd7e2790c4b1a84d80a4d58e8a2cb/artifacts
+end_time: 1711711815419
+entry_point_name: ''
+experiment_id: '326631952177515899'
+lifecycle_stage: active
+run_id: 311fd7e2790c4b1a84d80a4d58e8a2cb
+run_name: nervous-snail-93
+run_uuid: 311fd7e2790c4b1a84d80a4d58e8a2cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711815334
+status: 3
+tags: []
+user_id: alber

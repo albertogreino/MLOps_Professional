@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/workspace/python/MLOps_Professional/MLOps_Professional/lab3/sample/mlruns/688108817858188357/7f22808817364af3b5dab74e0d278bb3/artifacts
+end_time: 1711711832349
+entry_point_name: ''
+experiment_id: '688108817858188357'
+lifecycle_stage: active
+run_id: 7f22808817364af3b5dab74e0d278bb3
+run_name: bedecked-toad-454
+run_uuid: 7f22808817364af3b5dab74e0d278bb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711829265
+status: 3
+tags: []
+user_id: alber

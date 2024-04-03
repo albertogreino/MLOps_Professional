@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/workspace/python/MLOps_Professional/MLOps_Professional/lab3/sample/mlruns/688108817858188357/052448446d594a0292e766b44199a681/artifacts
+end_time: 1711711829249
+entry_point_name: ''
+experiment_id: '688108817858188357'
+lifecycle_stage: active
+run_id: 052448446d594a0292e766b44199a681
+run_name: carefree-robin-433
+run_uuid: 052448446d594a0292e766b44199a681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711829201
+status: 3
+tags: []
+user_id: alber

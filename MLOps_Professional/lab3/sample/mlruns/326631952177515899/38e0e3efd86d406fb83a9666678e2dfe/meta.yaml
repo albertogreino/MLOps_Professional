@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/workspace/python/MLOps_Professional/MLOps_Professional/lab3/sample/mlruns/326631952177515899/38e0e3efd86d406fb83a9666678e2dfe/artifacts
+end_time: 1711711820334
+entry_point_name: ''
+experiment_id: '326631952177515899'
+lifecycle_stage: active
+run_id: 38e0e3efd86d406fb83a9666678e2dfe
+run_name: overjoyed-swan-78
+run_uuid: 38e0e3efd86d406fb83a9666678e2dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711815435
+status: 3
+tags: []
+user_id: alber
