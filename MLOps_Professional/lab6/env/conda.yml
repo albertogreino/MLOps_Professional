@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.9.13
+  - pip
   - pip:
     - transformers==4.29.2
     - torch==2.0.1
